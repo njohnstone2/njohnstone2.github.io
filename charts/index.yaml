@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  github-releases-notifier:
+  - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2023-01-07T12:17:35.488076+10:00"
+    description: Watches github repositories for new releases/tags.
+    digest: 2a8f4bf8b884f03b0ea6fc4c940678e1ce153761d9a9b4776cbaf2020c37b5ac
+    name: github-releases-notifier
+    type: application
+    urls:
+    - njohnstone2.github.io/github-releases-notifier-0.1.1.tgz
+    version: 0.1.1
+generated: "2023-01-07T12:17:35.483335+10:00"
