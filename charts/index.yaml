@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   github-releases-notifier:
   - apiVersion: v2
-    appVersion: 0.1.1
-    created: "2023-01-07T12:17:35.488076+10:00"
+    appVersion: v0.1.7
+    created: "2023-01-08T07:39:48.396793+10:00"
     description: Watches github repositories for new releases/tags.
-    digest: 2a8f4bf8b884f03b0ea6fc4c940678e1ce153761d9a9b4776cbaf2020c37b5ac
+    digest: 341ad9c8340f4ebdc57e5d4f941a9c0193a78d5c4ac9a8164e291e2564d1d63a
     name: github-releases-notifier
     type: application
     urls:
-    - njohnstone2.github.io/github-releases-notifier-0.1.1.tgz
-    version: 0.1.1
-generated: "2023-01-07T12:17:35.483335+10:00"
+    - https://github.com/njohnstone2/github-releases-notifier/releases/download/v0.1.7/github-releases-notifier-helm-3-chart-v0.1.7.tgz
+    version: v0.1.7
+generated: "2023-01-08T07:39:48.394749+10:00"
